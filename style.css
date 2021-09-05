@@ -1,0 +1,18 @@
+html{
+    scroll-behavior: smooth;
+}
+body{
+  background: black;
+  color: #fff;
+}
+*{
+  box-sizing:border-box;
+  margin: 0;
+  padding: 0;
+}
+#canvas{
+  width:30%;
+}
+nav{
+  padding: 1%;
+}
